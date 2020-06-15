@@ -1,4 +1,15 @@
-p
-{
+p {
   color: blue;
+}
+h1 {
+  color: brown;
+}
+h2 {
+  color: darkgreen;
+}
+ul {
+  color: red;
+}
+.gras {
+  font-weight: bold;
 }
